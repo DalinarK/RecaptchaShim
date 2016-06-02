@@ -1,0 +1,32 @@
+
+Installed bitbucket
+Used Ports 7990 for HTTP browser access and port 8006 for control (start and stop)
+7992 and 7993 for embedded elastisearch instance that provides search functionality to bitbucket
+
+Base URL http://localhost:7990
+
+Server ID: BA3D-8HAF-M7F3-LGK5
+
+License: AAABLg0ODAoPeNptkMlOwzAQhu9+Cktc4OAqi0IXyRJtnEIhaREtnLi41jSxSJzIS0XfHocUgVAlj
+zya5Zv552pXOfzoFA4iHIazZDoLY5yyHY6C8BYxMELLzspW0YW0eyc+wOLrLegj6Jv3Gc6OvHa8z
+6NUw7fDuAXad5PAvxilrbJc2KzgsqZl21WgG6eE/+7KxsdGom3QL4da7QAZy0018m3yCEOklgKUg
+TfQpq+KkOcpC4orAdlnJ/Xpz+AxCSK00SVX0gxUBsr7mElVnuH5ANydOljzBmi6KYrsJV3NczToW
+zG6mMeMTB7mS1KMlzHJ758StM3W1BvJx9NJnMQJOoN8eb5ilzKX1xu22FquLWh64LX5kb12zR705
+vBqvFhKQvTstKi4gf+n/QIYY5EAMCwCFAh/a4HTV3IMOrPQWBXNQvtljDO9AhQcxsxHcDThXGh8D
+zFDno8PsTN/Hw==X02f7
+
+admin account:
+overlord
+password:
+96rNAowc4Zet
+
+client account:
+client
+password:
+password
+
+server.js setup:
+
+npm install express
+npm install body-parser
+npm install request
