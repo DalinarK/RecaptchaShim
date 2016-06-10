@@ -30,3 +30,7 @@ server.js setup:
 npm install express
 npm install body-parser
 npm install request
+
+Used Advanced Rest Client in chrome to send POST requests.
+Currently the JSON payload looks like this:
+{"username":"client"} to reset the client
